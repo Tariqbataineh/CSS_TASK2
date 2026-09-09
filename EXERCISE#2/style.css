@@ -1,0 +1,27 @@
+
+.container {
+    display: flex;
+    height: 100vh;
+   
+  
+    
+}
+
+.part1 {
+    width: 50%;
+     justify-content: center;
+background-color: orange;
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+}
+
+.part2 {
+    width: 50%;
+    background-color: blue;
+    color: white;
+    display: flex;
+    font-size: 40px;
+      justify-content: center;
+      align-items: center;
+}

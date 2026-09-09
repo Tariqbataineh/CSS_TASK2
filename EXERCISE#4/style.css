@@ -1,0 +1,18 @@
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px solid goldenrod;
+}
+
+.box {
+    width: 25%;
+    height: 140px;
+    color: white;
+    font-size: 90px;
+    text-align: center;
+}
+
+
+
+
